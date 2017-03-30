@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ryan/Code/com-traj-gen/build",
+  "command": "/usr/bin/ccache  g++-5   -I/home/ryan/Install/include -I/home/ryan/Code/codyco-superbuild/build/install/include -I/home/ryan/Code/codyco-superbuild/build/install/include/eigen_lgsm -I/usr/include/eigen3   -std=c++11   -o CMakeFiles/com-traj-gen.dir/main.cpp.o -c /home/ryan/Code/com-traj-gen/main.cpp",
+  "file": "/home/ryan/Code/com-traj-gen/main.cpp"
+}
+]
